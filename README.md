@@ -1,5 +1,9 @@
 <section id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding is fun" width="20%"/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,10 +16,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  
  </section>
 
 ### :man_technologist: About Me :
@@ -23,18 +24,17 @@
   - :telescope: I'm still a computer student but believe me I can help you.
   - 😄 For my part I like javascript, It's really fun.
   - 🤔 My favorite platform to learn to code is codewars.
-<!--   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-raherinotoavina-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 ---
 
 ### :fire: My Stats :
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raherinotoavina&count_private=true&show_icons=true&theme=transparent)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&langs_count=8) -->
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=ramasama&stroke=%23BB432C) -->
+<div>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raherinotoavina&show_icons=true&theme=transparent&hide_border=true" alt=""/>
+</div>
 
 ---
-### :stats: Languages and Tools :
+### 🧰 Languages and Tools :
 
 <section>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
