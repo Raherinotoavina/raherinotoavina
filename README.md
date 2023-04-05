@@ -7,7 +7,9 @@
     <a href="https://www.codewars.com/users/ramasama/badges/large">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="">
+       <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -17,7 +19,7 @@
  </section>
 
 ### :man_technologist: About Me :
-  I am a web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar.
+  I am a web Developer from Madagascar.
   - :telescope: I'm still a computer student but believe me I can help you.
   - 😄 For my part I like javascript, It's really fun.
   - 🤔 My favorite platform to learn to code is codewars.
@@ -25,7 +27,14 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raherinotoavina&count_private=true&show_icons=true&theme=transparent)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&langs_count=8) -->
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=ramasama&stroke=%23BB432C) -->
+
+---
+### :stats: Languages and Tools :
 
 <section>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -41,14 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </section>
-
----
-
-### :fire: My Stats :
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raherinotoavina&count_private=true&show_icons=true&theme=transparent)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&langs_count=8) -->
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=ramasama&stroke=%23BB432C) -->
 
 <!--
 **raherinotoavina/raherinotoavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
