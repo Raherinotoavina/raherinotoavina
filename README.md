@@ -1,9 +1,5 @@
 <section id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding is fun" width="20%"/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +12,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   
  </section>
 
@@ -29,8 +29,8 @@
 
 ### :fire: My Stats :
 <div>
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raherinotoavina&show_icons=true&theme=transparent&hide_border=true" alt=""/>
+  <img src="https://github.r2v.ch/codewars?user=ramasama&stroke=COLOR" alt=""/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&title_color="#FFFFFF" alt=""/>
 </div>
 
 ---
