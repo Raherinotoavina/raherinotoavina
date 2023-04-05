@@ -28,9 +28,8 @@
 ---
 
 ### :fire: My Stats :
-<div>
-  <img src="https://github.r2v.ch/codewars?user=ramasama&stroke=COLOR" alt=""/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&title_color="#FFFFFF" alt=""/>
+<div style="display:flex">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt=""/>
 </div>
 
 ---
