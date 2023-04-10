@@ -22,13 +22,13 @@
 ### :man_technologist: About Me :
   I am a web Developer from Madagascar.
   - :telescope: I'm still a computer student but believe me I can help you.
-  - 😄 For my part I like javascript, It's really fun.
+  - 🌱 For my part I like javascript, It's really fun.
   - 🤔 My favorite platform to learn to code is codewars.
 
 ---
 
 ### :fire: My Stats :
-<div style="display:flex">
+<div>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt=""/>
 </div>
 
