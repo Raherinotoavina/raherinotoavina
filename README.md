@@ -4,14 +4,14 @@
     <div id="badges">
       <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a><br>
+      </a>
       <a href="https://www.codewars.com/users/ramasama/badges/large">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
-      </a><br>
+      </a>
       <a href="">
         <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
       </a>
-    </div><br>
+    </div>
     <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
   </span>
  </section>
