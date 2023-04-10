@@ -1,22 +1,19 @@
-<section id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding is fun" width="20%"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.codewars.com/users/ramasama/badges/large">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
-    </a>
-    <a href="">
-       <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
+<section id="header" align="right">
+  <span align="right">
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding is fun" width="20%"/>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a><br>
+      <a href="https://www.codewars.com/users/ramasama/badges/large">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+      </a><br>
+      <a href="">
+        <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
+      </a>
+    </div><br>
+    <img src="https://komarev.com/ghpvc/?username=your-github-raherinotoavina&style=flat-square&color=blue" alt=""/>
+  </span>
  </section>
 
 ### :man_technologist: About Me :
