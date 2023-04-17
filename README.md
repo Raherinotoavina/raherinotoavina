@@ -1,5 +1,5 @@
 <div>  
-  <img src="https://www.itforbusiness.fr/wp-content/uploads/2023/01/langages-de-programmation-2022-shutterstock_1680857539-1024x408.jpg" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=github"/>
 </div>
 
 ---
@@ -14,9 +14,8 @@
 
 ### 📊 My Stats :
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="415px"  alt=""/>
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" width="415px"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=react-dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="420px"  alt=""/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" width="420px"/>
 </div>
 
 ---
