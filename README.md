@@ -1,3 +1,6 @@
+<h1 align="center">Hi 🖐️ there,</h1>
+
+### 🎊 My contribution :
 <div>  
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=github"/>
 </div>
@@ -5,10 +8,12 @@
 ---
 
 ### 🛰️ About Me :
-  I am a web Developer from Madagascar.
-  - 🔭 I'm still a computer student but believe me I can help you.
-  - 🌱 For my part I like javascript, It's really fun.
-  - ☕ My favorite platform to learn to code is codewars.
+  <div>I am a web Developer from Madagascar.</div>
+  <ul>
+    <li>🔭 I'm still a computer student but believe me I can help you.</li>
+    <li>🌱 For my part I like javascript, It's really fun.</li>
+    <li>☕ My favorite platform to learn to code is codewars.</li>
+  </ul>
 
 ---
 
@@ -44,3 +49,6 @@
   <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
 </div>
+
+---
+<h3 align="center">thanks for visiting 🙂</h3>
