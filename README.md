@@ -1,6 +1,5 @@
 <section id="header" align="center">
   <span align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding is fun" width="20%"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
