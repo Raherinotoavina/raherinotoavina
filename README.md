@@ -47,8 +47,7 @@
 </div>
 
 ---
-### 🧠 I can do :
-<div>
+<div align="center">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40px"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/react.svg" width="40px" />
