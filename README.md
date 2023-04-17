@@ -42,7 +42,7 @@
 ---
 ### :fire: Others :
 <div>
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="455px"/>
+  <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=dark" width="455px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&hide_progress=true&theme=dark" width="385px"/>
 </div>
 
