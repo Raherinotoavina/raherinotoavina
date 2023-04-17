@@ -14,7 +14,8 @@
 
 ### 📊 My Stats :
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" alt=""/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" width="500px"  alt=""/>
+  <img src="[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama)](https://github.com/ignacio-cuadra/github-readme-codewars)" />
 </div>
 
 ---
@@ -39,7 +40,6 @@
   <img src="https://cdn.svgporn.com/logos/react.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/sass.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40px" />
-  <img src="https://cdn.svgporn.com/logos/php.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
