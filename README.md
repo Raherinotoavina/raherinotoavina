@@ -1,4 +1,6 @@
-<h1 align="center">Hi 🖐️ there,</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+RAHERINOTOAVINA+Safidy.;I'm+a+web+developer+from+Madagascar." alt="Typing SVG" /></a>
+</div>
 
 ### 🎊 My contribution :
 <div>  
