@@ -8,7 +8,7 @@
   I am a web Developer from Madagascar.
   - 🔭 I'm still a computer student but believe me I can help you.
   - 🌱 For my part I like javascript, It's really fun.
-  - 🩹 My favorite platform to learn to code is codewars.
+  - ☕ My favorite platform to learn to code is codewars.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 ### 📫 How to reach me :
-<div id="badges">
+<div>
   <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,5 +33,14 @@
 
 ---
 ### 🧠 I can do :
-
-
+<div>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40px"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/php.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/laravel.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
+</div>
