@@ -26,13 +26,6 @@
 </div>
 
 ---
-### :fire: Others :
-<div>
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="455px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&hide_progress=true&theme=dark" width="385px"/>
-</div>
-
----
 ### 📫 How to reach me :
 <div>
   <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
@@ -44,6 +37,13 @@
   <a href="">
      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
   </a>
+</div>
+
+---
+### :fire: Others :
+<div>
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width="455px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&hide_progress=true&theme=dark" width="385px"/>
 </div>
 
 ---
