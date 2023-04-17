@@ -51,10 +51,11 @@
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40px"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/react.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/redux.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/flutter.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/sass.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/laravel.svg" width="40px" />
-  <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
 </div>
 
