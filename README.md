@@ -14,8 +14,8 @@
 
 ### 📊 My Stats :
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" width="500px"  alt=""/>
-  <img src="[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama)](https://github.com/ignacio-cuadra/github-readme-codewars)" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" width="450px"  alt=""/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" width="450px"/>
 </div>
 
 ---
