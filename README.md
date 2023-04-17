@@ -21,8 +21,8 @@
 
 ### 📊 My Stats :
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="420px"  alt=""/>
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" width="420px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raherinotoavina&show_icons=true&theme=dark&count_private=true&hide_border=false&include_all_commits=true" width="422px"  alt=""/>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=ramasama&theme=dark" width="418px"/>
 </div>
 
 ---
@@ -40,7 +40,7 @@
 </div>
 
 ---
-### :fire: Others :
+### 🥇 Top langage and other :
 <div>
   <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=dark" width="455px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&hide_progress=true&theme=dark" width="385px"/>
