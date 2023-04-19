@@ -42,8 +42,8 @@
 ---
 ### 🥇 Top langage and other :
 <div>
-  <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=dark" width="455px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raherinotoavina&hide_progress=true&theme=dark" width="385px"/>
+  <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=dark" width="463px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&hide_progress=true&theme=dark" width="377px"/>
 </div>
 
 ---
