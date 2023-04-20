@@ -4,7 +4,7 @@
 
 ### 🎊 My contribution :
 <div>  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=github"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=github&count_private=true"/>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ### 🥇 Top langage and other :
 <div>
   <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=dark" width="463px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&hide_progress=true&theme=dark" width="377px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&hide_progress=true&theme=dark&count_private=true" width="377px"/>
 </div>
 
 ---
