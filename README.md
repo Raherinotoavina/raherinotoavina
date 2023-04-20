@@ -60,4 +60,4 @@
 </div>
 
 ---
-<h3 align="center">thanks for visiting 🙂</h3>
+<h3 align="center">thanks for visiting 🙂.</h3>
