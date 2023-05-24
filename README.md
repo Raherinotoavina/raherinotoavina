@@ -4,7 +4,7 @@
 
 ### 🎊 My contribution :
 <div>  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raherinotoavina&theme=github&count_private=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&hide_border=true&theme=tokyo-night"/>
 </div>
 
 ---
