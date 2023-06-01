@@ -58,6 +58,7 @@
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/java.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
+  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="40px" />
 </div>
 
 ---
