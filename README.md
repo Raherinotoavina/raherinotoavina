@@ -34,6 +34,9 @@
   <a href="https://www.codewars.com/users/ramasama/badges/large">
      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/raherinotoavina1?hr_r=1">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
   <a href="">
      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
   </a>
