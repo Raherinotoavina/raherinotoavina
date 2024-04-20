@@ -7,3 +7,6 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&area=true&theme=react-dark&hide_title=true&hide_border=true&radius=16"
     />
 </div>
+<div>
+  <img src="https://github-readme-stats-eight-phi-66.vercel.app/api?username=raherinotoavina&theme=react&show_icons=true&hide_border=true&border_radius=0&hide_title=true&include_all_commits=true"/>
+</div>
