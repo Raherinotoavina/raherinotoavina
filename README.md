@@ -4,7 +4,9 @@
 
 ### 🎊 My contribution :
 <div>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&hide_border=true&theme=tokyo-night"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&area=true&theme=react-dark&hide_title=true&hide_border=true&radius=16"
+    />
 </div>
 
 ---
@@ -64,6 +66,3 @@
   <img src="https://cdn.svgporn.com/logos/python.svg" width="40px" />
   <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="40px" />
 </div>
-
----
-<h3 align="center">thanks for visiting 🙂.</h3>
