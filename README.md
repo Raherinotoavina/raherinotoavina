@@ -13,8 +13,9 @@
   <div>I am a web Developer from Madagascar.</div>
   <ul>
     <li>🔭 I'm still a computer student but believe me I can help you.</li>
+    <li>👨‍🎓 I'm currently trying to learn Rust.</li>
     <li>🌱 For my part I like javascript, It's really fun.</li>
-    <li>☕ My favorite platform to learn to code is codewars.</li>
+    <li>☕  My favorite platform to learn to code is codewars.</li>
   </ul>
 
 ---
