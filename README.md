@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a>
+  <a href="#">
     <img src="https://img.shields.io/badge/web-portfolio-%232185D0?style=flat&logo=codeberg&logoColor=white"/>
   </a>
   <a href="https://www.codewars.com/users/ramasama">
