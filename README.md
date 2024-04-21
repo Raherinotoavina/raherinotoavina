@@ -14,7 +14,6 @@
 
 ---
 <h4 align="center">📮 How to reach me</h4>
-<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=white"/>
