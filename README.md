@@ -8,6 +8,6 @@
     />
 </div>
 <div align="center">
-  <img width="450px" src="https://github-readme-stats-eight-phi-66.vercel.app/api?username=raherinotoavina&theme=react&show_icons=true&hide_border=true&border_radius=0&hide_title=true&include_all_commits=true"/>
-  <img width="289.5px" src="https://github-readme-stats-eight-phi-66.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&border_radius=0&theme=react&hide_border=true" />
+  <img width="470px" src="https://github-readme-stats-eight-phi-66.vercel.app/api?username=raherinotoavina&theme=react&show_icons=true&hide_border=true&border_radius=0&hide_title=true&include_all_commits=true"/>
+  <img width="302px" src="https://github-readme-stats-eight-phi-66.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&border_radius=0&theme=react&hide_border=true" />
 </div>
