@@ -2,9 +2,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+RAHERINOTOAVINA+Safidy.;I'm+a+developer+from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
 </div>
 
-<div align="center">  
+<div align="left">  
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&area=true&theme=react-dark&hide_title=true&hide_border=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raherinotoavina&area=true&theme=react-dark&hide_title=true&hide_border=true&radius=0"
     />
 </div>
 <div align="center">
