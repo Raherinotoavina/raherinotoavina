@@ -10,4 +10,11 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-phi-66.vercel.app/api?username=raherinotoavina&theme=react&show_icons=true&hide_border=true&border_radius=0&hide_title=true&include_all_commits=true"/>
   <img src="https://github-readme-stats-eight-phi-66.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&border_radius=0&theme=react&hide_border=true" />
+
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=114745728" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=114745728&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @Raherinotoavina" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=114745728&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
 </div>
