@@ -33,6 +33,3 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=react&hide_border=true&border_radius=0"/>
-</div>
