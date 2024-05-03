@@ -31,3 +31,8 @@
     <img src="https://img.shields.io/badge/hackerrank-%2300EA64?style=plastic&logo=hackerrank&logoColor=white"/>
   </a>
 </div>
+
+---
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=raherinotoavina&theme=react&hide_border=true&border_radius=0"/>
+</div>
