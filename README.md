@@ -31,5 +31,3 @@
     <img src="https://img.shields.io/badge/hackerrank-%2300EA64?style=plastic&logo=hackerrank&logoColor=white"/>
   </a>
 </div>
-
----
