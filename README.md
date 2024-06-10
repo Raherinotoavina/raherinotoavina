@@ -12,8 +12,6 @@
   <img src="https://github-readme-stats-eight-phi-66.vercel.app/api/top-langs/?username=raherinotoavina&layout=compact&border_radius=0&theme=react&hide_border=true" />
 </div>
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=white"/>
